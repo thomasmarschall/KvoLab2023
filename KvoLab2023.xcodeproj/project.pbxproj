@@ -10,6 +10,7 @@
 		E9CE73B0296CCF410010CF44 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CE73AF296CCF410010CF44 /* AppDelegate.swift */; };
 		E9CE73B2296CCF490010CF44 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9CE73B1296CCF490010CF44 /* Assets.xcassets */; };
 		E9CE73B5296CCF490010CF44 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = E9CE73B3296CCF490010CF44 /* MainMenu.xib */; };
+		E9CE73BF296CCF570010CF44 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CE73BE296CCF570010CF44 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E9CE73B4296CCF490010CF44 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		E9CE73B6296CCF490010CF44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E9CE73B7296CCF4A0010CF44 /* KvoLab2023.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = KvoLab2023.entitlements; sourceTree = "<group>"; };
+		E9CE73BE296CCF570010CF44 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				E9CE73B3296CCF490010CF44 /* MainMenu.xib */,
 				E9CE73B6296CCF490010CF44 /* Info.plist */,
 				E9CE73B7296CCF4A0010CF44 /* KvoLab2023.entitlements */,
+				E9CE73BE296CCF570010CF44 /* Model.swift */,
 			);
 			path = KvoLab2023;
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E9CE73B0296CCF410010CF44 /* AppDelegate.swift in Sources */,
+				E9CE73BF296CCF570010CF44 /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
